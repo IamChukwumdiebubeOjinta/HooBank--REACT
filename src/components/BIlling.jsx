@@ -41,4 +41,4 @@ const BIlling = () => (
   </section>
 )
 
-export default BIlling
+export default Billing
